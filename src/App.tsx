@@ -7,7 +7,7 @@ function App() {
    <Fragment>
      <GlobalStyle />
      <div>
-       <img src="/src/assets/naruto.jpg" alt="naruto" width={200} height={200} />
+       <img src="assets/naruto.jpg" alt="naruto" width={200} height={200} />
      </div>
    </Fragment>
   )
