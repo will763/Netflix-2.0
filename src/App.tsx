@@ -1,4 +1,7 @@
-import { Fragment, useState } from 'react'
+import { Fragment } from 'react'
+import { CarouselNetFlix } from './components/Carousel'
+import { Header } from './components/Header'
+import { Main } from './components/Main'
 import { GlobalStyle } from './styles/Global'
 
 function App() {
@@ -6,9 +9,9 @@ function App() {
   return (
    <Fragment>
      <GlobalStyle />
-     <div>
-       <img src="assets/naruto.jpg" alt="naruto" width={200} height={200} />
-     </div>
+     <Header />
+     <Main />
+     <CarouselNetFlix />
    </Fragment>
   )
 }
