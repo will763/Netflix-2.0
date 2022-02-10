@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Netflix 2.0](https://netflix-2-0-bdrslhsj6-will763.vercel.app/)
+- Live Site URL: [Netflix 2.0](https://netflix-2-0-danfwnwwc-will763.vercel.app/)
 
 ## My process
 
